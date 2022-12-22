@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="films_recycle" type="id" />
+    <item name="film_img" type="id" />
+    <item name="film_name_txt" type="id" />
+    <item name="film_discription" type="id" />
+    <item name="card_view_film" type="id" />
+</resources>
